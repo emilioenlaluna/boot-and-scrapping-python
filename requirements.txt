@@ -1,0 +1,6 @@
+feedparser
+flask
+requests
+spotipy
+lyricsgenius
+lxml
